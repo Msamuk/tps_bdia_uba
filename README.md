@@ -16,7 +16,11 @@ Este repositorio contiene las soluciones a los Trabajos Prácticos desarrollados
    Consultas sobre grafos usando Cypher, el lenguaje de consulta de Neo4j.  
    [Ver archivo → TP3-Neo4j-Grafos.md](./TP3-Neo4j-Grafos.md)
 
-4. **Trabajo Práctico Final elegido: Práctica con el dataset sample_mflix de MongoDB**  
+4. **Trabajo Práctico 4: Consultas en base de datos de Vectores**  
+   Consultas sobre ChromaDB, base de datos de vectores.  
+   [Ver archivo → TP4-Vectores/TP4-respuestas.md](./TP4-Vectores/TP4-respuestas.md)
+
+5. **Trabajo Práctico Final elegido: Práctica con el dataset sample_mflix de MongoDB**  
    Trabajo final basado en consultas avanzadas y procesamiento de datos con MongoDB con el dataset sample_mflix de Atlas.  
    [Ver archivo → TPFinal-MongoDB.md](./TPFinal-MongoDB.md)
 
@@ -28,4 +32,4 @@ Cada Trabajo Práctico cuenta con su propio archivo que incluye:
 ## Requisitos
 
 - Python 3.8 o superior
-- Tener instaladas las bases de datos PostgreSQL 16, MongoDB y Neo4j para la ejecución de las consultas.
+- Tener instaladas las bases de datos PostgreSQL 16, ChromaDB, MongoDB y Neo4j para la ejecución de las consultas.
